@@ -24,7 +24,7 @@ Aqui está a sequência de entregas realizadas durante o curso:
 
 ## 📚 Vídeo disponível em:
 
-- [Criação de vídeo com avatar falante](https://github.com/danielacabrera2103/prod_cont_with_ai_0004/blob/main/media/video_avatar_dio.mp4)
+- [Criação de vídeo com avatar falante](https://youtu.be/seufUss6qxs)
 
 
 ## 👨‍💻 Feito Por:
