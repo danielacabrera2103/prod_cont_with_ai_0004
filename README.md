@@ -26,6 +26,10 @@ Aqui está a sequência de entregas realizadas durante o curso:
 
 - [Criação de vídeo com avatar falante](https://youtu.be/seufUss6qxs)
 
+<video width="320" height="240" controls>
+  <source src="https://github.com/danielacabrera2103/prod_cont_with_ai_0004/blob/main/media/video_avatar_dio.mp4" type="video/mp4">
+</video>
+
 
 ## 👨‍💻 Feito Por:
 
